@@ -12,7 +12,7 @@ AllCops:
   Exclude:
     - vendor/bundle/**/*”
 
-„Lint/ConstantResolution:
+Lint/ConstantResolution:
   Enabled: false
 
 Style/Copyright:
